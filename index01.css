@@ -1,0 +1,56 @@
+body{
+    background-color: cadetblue;
+}
+
+main{
+    width: 800px;
+    height: 600px;
+    border-radius: 20px;
+    margin-left: 400px;
+    background-color: white;
+}
+
+#one{
+    padding: 20px;
+}
+
+#two{
+    padding-left: 160px;
+    margin-top: -70px;
+}
+
+#three{
+    padding-left: 320px;
+    margin-top: -35px;
+}
+
+#four{
+    padding-left:540px;
+    margin-top: -35px;
+}
+
+#five{
+    padding-left: 390px;
+    margin-top: -35px;
+}
+
+#six{
+    padding-left: 700px;
+    margin-top: -35px;
+}
+
+/* #seven{
+    padding-left:540px;
+    margin-top: -35px;
+}
+
+#eight{
+    padding-left: 390px;
+    margin-top: -35px;
+}
+
+#nine{
+    padding-left: 700px;
+    margin-top: -35px;
+} */
+
